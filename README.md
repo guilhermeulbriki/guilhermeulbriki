@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+-  [Linkedin](https://www.linkedin.com/in/guilherme-lu%C3%ADs-ulbriki-42a922196/)
+-  [Instagram](https://www.instagram.com/guilhermeulbriki/)
+
 <!--
 **guilhermeulbriki/guilhermeulbriki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
