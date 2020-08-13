@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Custom badge](https://img.shields.io/endpoint?color=%23005678&label=Guilherme%20Ulbriki&logo=linkedin&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fguilherme-lu%25C3%25ADs-ulbriki-42a922196%2F)
+
 -  [Linkedin](https://www.linkedin.com/in/guilherme-lu%C3%ADs-ulbriki-42a922196/)
 -  [Instagram](https://www.instagram.com/guilhermeulbriki/)
 -  [Email](mailto:guilhermeulbriki@gmail.com?Subject=Hello%20world!)
