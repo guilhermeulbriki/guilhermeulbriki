@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Ulbriki-005678?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-lu%C3%ADs-ulbriki-42a922196/)](https://www.linkedin.com/in/guilherme-lu%C3%ADs-ulbriki-42a922196/) 
-[![Instagram Badge](https://img.shields.io/badge/-Guilherme%20Ulbriki-005678?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/guilhermeulbriki/)](https://www.instagram.com/guilhermeulbriki/)
-[![Gmail Badge](https://img.shields.io/badge/-guilhermeulbriki@gmail.com-005678?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeulbriki@gmail.com)](mailto:guilhermeulbriki@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Guilherme%20Ulbriki-3f729b?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/guilhermeulbriki/)](https://www.instagram.com/guilhermeulbriki/)
+[![Gmail Badge](https://img.shields.io/badge/-guilhermeulbriki@gmail.com-ad343e?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeulbriki@gmail.com)](mailto:guilhermeulbriki@gmail.com)
 
 <!--
 **guilhermeulbriki/guilhermeulbriki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
