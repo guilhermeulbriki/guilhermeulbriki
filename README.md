@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Ulbriki-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-lu%C3%ADs-ulbriki-42a922196/)](https://www.linkedin.com/in/guilherme-lu%C3%ADs-ulbriki-42a922196/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Ulbriki-005678?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-lu%C3%ADs-ulbriki-42a922196/)](https://www.linkedin.com/in/guilherme-lu%C3%ADs-ulbriki-42a922196/) 
 
 -  [Linkedin](https://www.linkedin.com/in/guilherme-lu%C3%ADs-ulbriki-42a922196/)
 -  [Instagram](https://www.instagram.com/guilhermeulbriki/)
